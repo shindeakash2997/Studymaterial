@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Akash\\ASPCoreWebAPICRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|g:\\akash\\aspcorewebapicrud\\aspcorewebapicrud\\aspcorewebapicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\aspcorewebapicrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|g:\\akash\\aspcorewebapicrud\\aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|g:\\akash\\aspcorewebapicrud\\aspcorewebapicrud\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|g:\\akash\\aspcorewebapicrud\\aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|g:\\akash\\aspcorewebapicrud\\aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{691548F5-0B6C-4D3C-9EC8-CBA5A3585EC5}|ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj|solutionrelative:aspcorewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Program.cs",
+              "ToolTip": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Program.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:32:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\appsettings.json",
+              "ToolTip": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\appsettings.json",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T13:28:33.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Models\\MyDbContext.cs",
+              "ToolTip": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:27:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASPCoreWebAPICRUD.csproj",
+              "DocumentMoniker": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "ToolTip": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T13:09:47.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "G:\\Akash\\ASPCoreWebAPICRUD\\ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "ASPCoreWebAPICRUD\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:08:15.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
