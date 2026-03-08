@@ -30,7 +30,7 @@ public partial class MyDbContext : DbContext
     {
         modelBuilder.Entity<Student>(entity =>
         {
-            entity.HasNoKey();
+            entity.HasKey(e => e.Id);
 
             entity.Property(e => e.Fathername)
                 .HasMaxLength(200)
